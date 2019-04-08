@@ -1,0 +1,1 @@
+run in either MATLAB or Octave by innitiating any of the .m files starting with "glanvi"
